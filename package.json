@@ -1,12 +1,12 @@
 {
-  "name": "soap-server",
+  "name": "vascosimoes-soap-server",
   "version": "0.1.0",
   "description": "Soap server, using pure javascript.",
   "main": "./lib/soap-server",
   "scripts": {
     "test": "node test.js"
   },
-  "repository": "https://github.com/tan-tan-kanarek/node-soap-server.git",
+  "repository": "https://github.com/vascosimoes/node-soap-server",
   "keywords": [
     "Node.js",
     "Soap",
