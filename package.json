@@ -1,6 +1,6 @@
 {
   "name": "vascosimoes-soap-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Soap server, using pure javascript.",
   "main": "./lib/soap-server",
   "scripts": {
